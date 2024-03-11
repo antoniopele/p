@@ -1,6 +1,6 @@
 // Mock data for user accounts
 const users = [
-  { username: "mateus", password: "bolsonaro22" },
+  { username: "allef", password: "wandalinda" },
   { username: "user2", password: "password2" }
 ];
 
