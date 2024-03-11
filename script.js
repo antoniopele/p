@@ -1,7 +1,8 @@
 // Mock data for user accounts
 const users = [
   { username: "allef", password: "wandalinda" },
-  { username: "user2", password: "password2" }
+  { username: "mirella", password: "rubiburra10" },
+  { username: "glaydson", password: "callcenter2024" }
 ];
 
 // Function to handle form submission
